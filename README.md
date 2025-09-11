@@ -1,4 +1,4 @@
-# Weather-Forecas
+# Weather-Forecast
 # 🌦️ Weather App
 
 A simple, responsive weather web application built with **HTML, CSS, and JavaScript**.  
